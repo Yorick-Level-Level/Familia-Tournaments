@@ -9,9 +9,7 @@ export default function Home() {
         <span className="w-8 h-8 md:w-16 md:h-16">
           {IconMapper('ball')}
         </span>
-        <h1 className="font-nexa text-2xl md:text-6xl text-custom-blue">
-          PADEL TOURNOOI
-        </h1>
+        <h1 className="font-nexa text-2xl md:text-6xl text-custom-blue">PADEL TOERNOOI</h1>
       </div>
       <h2 className="font-sweetBold text-xl md:text-4xl text-custom-orange tracking-widest">FAMILIA</h2>
       <hr className="h-1 w-full bg-custom-blue mt-4 rounded-full"/>
