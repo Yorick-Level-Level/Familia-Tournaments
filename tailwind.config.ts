@@ -13,6 +13,18 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        nexa: ['nexa-rust-sans-black-shadow'],
+        intro: ['IntroRustG-BaseShade'],
+        sweetRegular: ['SweetSansPro-Regular'],
+        sweetMedium: ['SweetSansPro-Medium'],
+        sweetBold: ['SweetSansPro-Bold'],
+      },
+      colors: {
+        'custom-blue': '#1A4177',
+        'custom-orange': '#E98B54',
+        'custom-grey': '#E3DDDC'
+      }
     },
   },
   plugins: [],
