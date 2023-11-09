@@ -7,7 +7,7 @@ export default function Metatags (): JSX.Element {
       <meta
         property='og:title'
         key='og:title'
-        content='Padel Toernooi - Familia'
+        content='Testing this title'
       />
 
       <meta
@@ -19,7 +19,7 @@ export default function Metatags (): JSX.Element {
       <meta
         property='og:image'
         key='og:image'
-        content='/images/og-image.png'
+        content='../../../public/images/og-image.png'
       />
 
       <meta property='og:image:width' key='og:image:width' content='600' />
