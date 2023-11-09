@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Padel Toernooi - Familia',
   description: 'Meld je snel aan voor het leukste padel toernooi van het jaar!',
   openGraph: {
-    images: '../public/images/og-image.png'
+    images: 'https://photos.sphereshowcase.com/tBJczsgyzUAP3woETDr31.jpg'
   }
 }
 
