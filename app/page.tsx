@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-10 md:p-24">
       <div className="flex flex-row items-center gap-2">
-        <span className="w-8 h-8 md:w-16 md:h-16">
+        <span className="w-8 h-8 md:w-16 md:h-16 animate-bounce">
           {IconMapper('ball')}
         </span>
         <h1 className="font-nexa text-2xl md:text-6xl text-custom-blue">PADEL TOERNOOI</h1>

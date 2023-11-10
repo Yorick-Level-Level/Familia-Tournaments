@@ -81,7 +81,7 @@ export default function RegisterForm (): JSX.Element {
             <div className='col-span-full md:col-start-1 md:col-end-12 mt-4'>
                 <button
                     type="submit"
-                    className="bg-custom-blue text-white p-4 px-8 font-sweetRegular text-md transition-all duration-300 border-4 border-custom-blue rounded-full hover:bg-transparent hover:text-custom-blue"
+                    className="bg-custom-blue text-white p-4 px-8 font-sweetRegular text-md animate-pulse hover:animate-none transition-all duration-300 border-4 border-custom-blue rounded-full hover:bg-transparent hover:text-custom-blue"
                 >
                     AANMELDEN
                 </button>
