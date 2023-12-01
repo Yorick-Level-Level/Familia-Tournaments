@@ -2,7 +2,6 @@
 
 import Tag from '@/components/atoms/Tag/Component'
 import React, { useState } from 'react'
-import players from '../../../data/players.json'
 
 export interface Player {
     name: string
