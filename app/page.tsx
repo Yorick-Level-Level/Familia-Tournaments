@@ -14,7 +14,6 @@ export default function Home() {
       <h2 className="font-sweetBold text-xl md:text-4xl text-custom-orange tracking-widest">FAMILIA</h2>
       <hr className="h-1 w-full bg-custom-blue mt-4 rounded-full"/>
       <TournamentDetails />
-      <hr className="h-1 w-full bg-custom-blue rounded-full"/>
       <TournamentBracket />
     </main>
   )
