@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "nexa-rust-sans-black-shadow";
+    src: url("/fonts/nexa-rust-sans-black-shadow.otf");
+}
+
+@font-face {
+    font-family: "IntroRustG-BaseShade";
+    src: url("../public/fonts/IntroRustG-BaseShade.ttf");
+}
+
+@font-face {
+    font-family: "SweetSansPro-Regular";
+    src: url("../public/fonts/SweetSansPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: "SweetSansPro-Medium";
+    src: url("../public/fonts/SweetSansPro-Medium.ttf");
+}   
+
+@font-face {
+    font-family: "SweetSansPro-Bold";
+    src: url("../public/fonts/SweetSansPro-Bold.ttf");
+}
